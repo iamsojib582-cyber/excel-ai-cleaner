@@ -105,4 +105,15 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
+
+Mosaddek Hosen Sajeeb
+Aspiring Data Analyst (Power BI • SQL • Excel • Python)
+
+📜 License
+
+This project is licensed under the MIT License.
+
+⭐ Support
+
+If you found this project useful, consider giving it a star ⭐ and sharing it!
