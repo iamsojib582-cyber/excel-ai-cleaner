@@ -63,7 +63,7 @@ Built with Python and Groq (Llama 3), this desktop application helps analysts tr
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/excel-ai-cleaner.git
+git clone https://github.com/iamsojib582-cyber/excel-ai-cleaner.git
 cd excel-ai-cleaner
 pip install -r requirements.txt
 ```
